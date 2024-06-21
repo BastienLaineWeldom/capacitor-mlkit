@@ -1,6 +1,10 @@
 {
-  "name": "capacitor-mlkit",
-  "private": true,
+  "name": "@blwd/capacitor-mlkit",
+  "version": "0.1.0",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "packageManager": "npm@8.3.0",
   "workspaces": [
     "packages/*"
