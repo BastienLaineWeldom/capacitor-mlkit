@@ -12,6 +12,7 @@ import android.graphics.Point;
 import android.media.Image;
 import android.net.Uri;
 import android.provider.Settings;
+import android.util.Size;
 import android.view.Display;
 import android.view.WindowManager;
 import androidx.annotation.NonNull;
